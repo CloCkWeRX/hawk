@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>clockwerx.github.com/hawk</name>
+  <summary>Hawk PEAR channel</summary>
+  <alias>hawk</alias>
+  <url>https://hawk.htw.com.au/</url>
+</server>
+

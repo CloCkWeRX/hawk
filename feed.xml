@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hawk.htw.com.au</id>
+    <updated>2013-08-27T08:51:30+11:00</updated>
+    <title>Hawk PEAR channel Latest Releases</title>
+    <link href="https://hawk.htw.com.au/feed.xml" rel="self" />
+    <author>
+        <name>https://hawk.htw.com.au</name>
+    </author>
+
+
+</feed>
