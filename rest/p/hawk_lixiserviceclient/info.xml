@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>Hawk_LixiServiceClient</n>
+<c>clockwerx.github.com/hawk</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>PHP License</l>
+<s>Connecting to HTW's Hawk platform for valuation requests via REST</s>
+<d>Connecting to HTW's Hawk platform for valuation requests via REST</d>
+<r xlink:href="/rest/r/hawk_lixiserviceclient" />
+</p>
