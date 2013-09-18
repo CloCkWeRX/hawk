@@ -1,6 +1,34 @@
 {
     "pear-hawk\/Hawk_LixiServiceClient": {
         "versions": {
+            "0.2.0": {
+                "name": "pear-hawk\/Hawk_LixiServiceClient",
+                "description": "Connecting to HTW's Hawk platform for valuation requests via REST",
+                "dist": {
+                    "type": "pear",
+                    "url": "https:\/\/hawk.htw.com.au\/get\/Hawk_LixiServiceClient-0.2.0.tgz"
+                },
+                "version": "0.2.0",
+                "time": "2013-09-18T06:07:33+09:00",
+                "require": {
+                    "php": ">=5.0.0",
+                    "pear-pear\/HTTP_Request2": ">=0.5.0",
+                    "pear-pear\/Log": "*"
+                },
+                "authors": [
+                    {
+                        "name": "Daniel O'Connor",
+                        "email": "daniel.oconnor@htw.com.au",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "0": "Hawk",
+                        "2": "example.php"
+                    }
+                }
+            },
             "0.1.0": {
                 "name": "pear-hawk\/Hawk_LixiServiceClient",
                 "description": "Connecting to HTW's Hawk platform for valuation requests via REST",
@@ -9,7 +37,7 @@
                     "url": "https:\/\/hawk.htw.com.au\/get\/Hawk_LixiServiceClient-0.1.0.tgz"
                 },
                 "version": "0.1.0",
-                "time": "2013-08-26T21:56:51+11:00",
+                "time": "2013-08-26T21:56:51+09:00",
                 "require": {
                     "php": ">=5.0.0",
                     "pear-pear\/HTTP_Request2": ">=0.5.0",
