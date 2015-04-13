@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hawk.htw.com.au</id>
-    <updated>2015-04-13T11:25:33+09:30</updated>
+    <id>http://clockwerx.github.io/hawk</id>
+    <updated>2015-04-13T11:28:02+09:30</updated>
     <title>Hawk PEAR channel Latest Releases</title>
-    <link href="https://hawk.htw.com.au/feed.xml" rel="self" />
+    <link href="http://clockwerx.github.io/hawk/feed.xml" rel="self" />
     <author>
-        <name>https://hawk.htw.com.au</name>
+        <name>http://clockwerx.github.io/hawk</name>
     </author>
 
     <entry>
         <title>Hawk_LixiServiceClient 0.4.0 (stable)</title>
-        <link href="https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.4.0.tgz" />
-        <id>https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.4.0.tgz</id>
+        <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.4.0.tgz" />
+        <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.4.0.tgz</id>
         <author>
             <name>doconnor</name>
         </author>
@@ -24,8 +24,8 @@ Change the clarity_provided signature to deal with the different params.
         </content>
     </entry>    <entry>
         <title>Hawk_LixiServiceClient 0.3.0 (stable)</title>
-        <link href="https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.3.0.tgz" />
-        <id>https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.3.0.tgz</id>
+        <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.3.0.tgz" />
+        <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.3.0.tgz</id>
         <author>
             <name>doconnor</name>
         </author>
@@ -38,8 +38,8 @@ Added debugging helpers
         </content>
     </entry>    <entry>
         <title>Hawk_LixiServiceClient 0.2.0 (stable)</title>
-        <link href="https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.2.0.tgz" />
-        <id>https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.2.0.tgz</id>
+        <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.2.0.tgz" />
+        <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.2.0.tgz</id>
         <author>
             <name>doconnor</name>
         </author>
@@ -60,8 +60,8 @@ rejectActionUpdate
         </content>
     </entry>    <entry>
         <title>Hawk_LixiServiceClient 0.1.0 (stable)</title>
-        <link href="https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.1.0.tgz" />
-        <id>https://hawk.htw.com.au/get/Hawk_LixiServiceClient-0.1.0.tgz</id>
+        <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.1.0.tgz" />
+        <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.1.0.tgz</id>
         <author>
             <name>doconnor</name>
         </author>

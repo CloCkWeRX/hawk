@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">https://hawk.htw.com.au/rest/</baseurl>
-                <baseurl type="REST1.1">https://hawk.htw.com.au/rest/</baseurl>
-                <baseurl type="REST1.2">https://hawk.htw.com.au/rest/</baseurl>
-                <baseurl type="REST1.3">https://hawk.htw.com.au/rest/</baseurl>
+                <baseurl type="REST1.0">http://clockwerx.github.io/hawk/rest/</baseurl>
+                <baseurl type="REST1.1">http://clockwerx.github.io/hawk/rest/</baseurl>
+                <baseurl type="REST1.2">http://clockwerx.github.io/hawk/rest/</baseurl>
+                <baseurl type="REST1.3">http://clockwerx.github.io/hawk/rest/</baseurl>
             </rest>
         </primary>
     </servers>
