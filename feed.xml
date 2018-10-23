@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://clockwerx.github.io/hawk</id>
-    <updated>2018-10-23T11:23:10+10:30</updated>
+    <updated>2018-10-23T11:28:11+10:30</updated>
     <title>Hawk PEAR channel Latest Releases</title>
     <link href="http://clockwerx.github.io/hawk/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,20 @@
     </author>
 
     <entry>
+        <title>Hawk_LixiServiceClient 0.5.1 (stable)</title>
+        <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.5.1.tgz" />
+        <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.5.1.tgz</id>
+        <author>
+            <name>doconnor</name>
+        </author>
+        <updated>2018-10-23T00:57:40+10:30</updated>
+        <content>
+            Connecting to HTW's Hawk platform for valuation requests via REST
+            
+Add query service, fix packaging
+ 
+        </content>
+    </entry>    <entry>
         <title>Hawk_LixiServiceClient 0.5.0 (stable)</title>
         <link href="http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.5.0.tgz" />
         <id>http://clockwerx.github.io/hawk/get/Hawk_LixiServiceClient-0.5.0.tgz</id>
